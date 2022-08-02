@@ -30,5 +30,5 @@ func maxLevelSum(root *TreeNode) int {
 		queue = queue[size:]
 		level++
 	}
-	return level
+	return ans
 }
