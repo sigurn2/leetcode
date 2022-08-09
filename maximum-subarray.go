@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 func maxSubArray(nums []int) int {
 	max := nums[0]

@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 func minCost(costs [][]int) int {
 	dp := costs[0]

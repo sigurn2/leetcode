@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 func jump(nums []int) int {
 	m := 0

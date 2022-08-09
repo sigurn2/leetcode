@@ -1,4 +1,4 @@
-package leetcode
+package main
 
 type NiNode struct {
 	val   int
